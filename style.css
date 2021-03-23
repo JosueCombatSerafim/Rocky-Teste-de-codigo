@@ -1,7 +1,7 @@
 .background-Header{
 
-    width: 100%;
-    height: 800px;
+    width: 98vw;
+    height: 120vh;
     background-image: url(imagens-web/s1-ft1.png);
     background-size: contain;
     background-repeat: no-repeat;
@@ -33,9 +33,9 @@
 }
 
 .background-Main{
-    background-position: center;
+    background-position: bottom;
     width: 98vw;
-    height: 3500px;
+    height:4000px;
     background-image: url(imagens-web/bg.png);
     background-size: cover;
     background-repeat: no-repeat;
