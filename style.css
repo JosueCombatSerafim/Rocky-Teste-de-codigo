@@ -47,7 +47,13 @@
 }
 
 footer{
-    background-color: red;
+    background-color: rgb(37, 37, 37);
+}
+
+.bg_yellow{
+    background-color: yellow;
+    height: 50px;
+    width: 97.60vw;
 }
 
 .footer-Logo{
@@ -55,6 +61,58 @@ footer{
     height: 35px;
 }
 
-.form{
+#informations{
     color: white;
+    margin: 1% 5% 0 5%;
+}
+
+#p1{
+    font-weight: 800;
+    font-size: 17px;
+}
+
+#p2{
+    color: yellow;
+    font-size: 17px;
+}
+
+#p3{
+    color: cyan;
+    font-size: 17px;
+}
+
+.form{
+    background-color: rgba(131, 131, 131, 0.705);
+    padding: 10px;
+    width: fit-content;
+    margin-left: 20%;
+}
+
+.name{
+    padding: 9px 80px 9px 5px;
+    margin-bottom: 10px;
+}
+
+.e-mail{
+    padding: 9px 80px 9px 5px;
+    margin-bottom: 10px;
+}
+
+.investimento{
+    padding: 9px 80px 9px 5px;
+    margin-bottom: 10px;
+}
+
+.msg{
+    padding: 9px 80px 80px 5px;
+    margin-bottom: 10px;
+}
+
+.send{
+    font-weight: 600;
+    color: white;
+    background-color: cyan;
+    height: 35px;
+    width: 260px;
+    border: 0;
 }
