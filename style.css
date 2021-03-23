@@ -41,9 +41,90 @@
     background-repeat: no-repeat;
 }
 
-.about-Title{
+.about{
+    margin: 0 0 0 5%;
+}
+
+.about-title{
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 5%;
+    font-size: 40px;
+}
+
+.about-description{
+    padding: 1.5%;
+    width: 60%;
+    box-shadow: black 0.1em 0.1em 0.2em;
+    margin-top: 5%;
+    background-color: white;
+}
+
+.service{
+    margin: 10% 0 0 5%;
+    width: 100%;
+}
+
+.service-title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.servicos{
+    background-image: url(imagens-web/s3-ft1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 320px;
+}
+
+.midia{
+    background-image: url(imagens-web/s3-ft2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 320px;
+
+}
+
+.implementacaos{
+    background-image: url(imagens-web/s3-ft3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 320px;
+}
+
+.diferenciais{
+    margin: 10% 0 0 5%;
+    width: 100%;
+}
+
+.title-diferenciais{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+}
+
+.a{
+    background-image: url(imagens-web/s4-ft1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 320px;
+}
+
+.b{
+    background-image: url(imagens-web/s4-ft2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 320px;
+}
+
+.c{
+    background-image: url(imagens-web/s4-ft3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 320px;
 }
 
 footer{
